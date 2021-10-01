@@ -1,2 +1,2 @@
 # Memorize
-jogo da memoria
+Memorize
