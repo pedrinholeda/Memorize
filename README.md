@@ -1,7 +1,7 @@
 # Memorize
 ## 📋 Descrição
 
-### Memorize é um jogo da memoria para fixar conceitos de swift.
+### Memorize é um jogo da memoria para fixar conceitos de swift do curso de de stanford
 
 ### =)
 ## 📲 ScreenShots
