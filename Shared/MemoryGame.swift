@@ -15,7 +15,12 @@ struct MemoryGame<CardContent>{
     }
     
     init(numberOfPairOfCards: Int) {
-        
+        cards = Array<Card>()
+        for parIndex in 0..<numberOfPairOfCards{
+            var content = ...
+            cards.append(Card(isFaceUp: false, isMatched: false, content: content))
+            cards.append(Card(isFaceUp: false, isMatched: false, content: content))
+        }
     }
     
     struct Card{
